@@ -1,0 +1,13 @@
+.places {
+	width: 77%;
+  max-width: 984px;
+  max-height: 6000px;
+  margin: 12px auto 0;
+}
+
+@media screen and (max-width: 767px) {
+  .places { 
+    margin-top: 16px;	
+    width: 100%;
+	}
+}
