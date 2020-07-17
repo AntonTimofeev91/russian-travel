@@ -1,8 +1,7 @@
 .cover__background {
   position: absolute;
   background-image: url("../../../images/cover__image.jpg");
-  
-  height: 740px;
+  min-height: 740px;
   width: 1184px;
   background-size: cover;
   opacity: .8;
@@ -16,20 +15,20 @@
 @media screen and (min-width: 769px) and (max-width: 1024px) {
   .cover__background {
       width: 100%;
-      height: 640px;
+      min-height: 640px;
   }
 }
 
 @media screen and (min-width: 321px) and (max-width: 768px) {
   .cover__background {
       width: 100%;
-      height: 480px;
+      min-height: 480px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__background {
       width: 100%;
-      height: 200px;
+      min-height: 200px;
   }
 }
