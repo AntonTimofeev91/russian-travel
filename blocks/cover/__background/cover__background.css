@@ -12,21 +12,63 @@
   opacity: .3;
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 1101px) and (max-width: 1200px) {
   .cover__background {
       width: 100%;
-      min-height: 640px;
+      min-height: 680px;
   }
 }
 
-@media screen and (min-width: 321px) and (max-width: 768px) {
+@media screen and (min-width: 1001px) and (max-width: 1100px) {
   .cover__background {
       width: 100%;
-      min-height: 480px;
+      min-height: 600px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 901px) and (max-width: 1000px) {
+  .cover__background {
+      width: 100%;
+      min-height: 520px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 900px) {
+  .cover__background {
+      width: 100%;
+      min-height: 440px;
+  }
+}
+
+@media screen and (min-width: 701px) and (max-width: 768px) {
+  .cover__background {
+      width: 100%;
+      min-height: 380px;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 700px) {
+  .cover__background {
+      width: 100%;
+      min-height: 320px;
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 600px) {
+  .cover__background {
+      width: 100%;
+      min-height: 280px;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 500px) {
+  .cover__background {
+      width: 100%;
+      min-height: 240px;
+  }
+}
+
+@media screen and (max-width: 400px) {
   .cover__background {
       width: 100%;
       min-height: 200px;
