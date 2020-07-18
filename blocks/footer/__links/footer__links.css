@@ -4,6 +4,19 @@
   width: 40%;
   display: flex;
   justify-content: space-between;
+  list-style: none;
+}
+
+@media screen and (max-width: 1150px) {
+  .footer__links {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .footer__links {
+    width: 50%;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -15,6 +28,5 @@
 @media screen and (max-width: 450px) {
   .footer__links {
     flex-direction: column;
-    
   }
 }

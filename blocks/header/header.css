@@ -9,12 +9,12 @@
 
 @media screen and (max-width: 1024px) {
   .header {
-    width: 90.625%;
+    width: 90%;
   }
 }
 @media screen and (max-width: 768px) {
   .header {
-    width: 93,75%;
+    width: 93%;
   }
 }
 @media screen and (max-width: 320px) {
