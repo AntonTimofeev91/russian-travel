@@ -1,12 +1,8 @@
 .header__lang {
+  margin: 0;
+  padding: 0;
+  padding-top: 12px;
   display: flex;
   justify-content: space-between;
-  width: 77px;
   list-style: none;
-}
-  
-@media screen and (max-width: 320px) {
-  .header__lang {
-    width: 62px;
-  }
 }
