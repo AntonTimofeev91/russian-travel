@@ -7,6 +7,7 @@
   color: #FFFFFF;
   text-decoration: none;
   transition: opacity 0.3s;
+  padding-left: 18px;
 }
 
 .header__link:hover {
