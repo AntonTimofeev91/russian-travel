@@ -1,9 +1,8 @@
-.footer__links {  
+.footer__links {
   margin: 0;
   padding: 0;
   width: 100%;
   display: flex;
-  justify-content: space-between;
   list-style: none;
 }
 

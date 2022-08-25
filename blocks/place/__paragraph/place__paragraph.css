@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   max-width: 484px;
-  font-family: 'Inter', ‘Arial’, sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -18,7 +18,7 @@
 }
 
 @media screen and (max-width: 320px) {
-	.place__paragraph {	
+	.place__paragraph {
     width: 90%;
 	}
 }
