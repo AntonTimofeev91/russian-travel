@@ -1,5 +1,5 @@
 .footer {
-  margin: 80px auto 24px;
+  margin: 80px auto 10px;
   width: calc(100% - 48px*2);
   max-width: 1184px;
   display: flex;
@@ -11,6 +11,7 @@
   .footer {
     width: calc(100% - 24px*2);
     margin-top: 74px;
+    margin-bottom: 11px;
   }
 }
 

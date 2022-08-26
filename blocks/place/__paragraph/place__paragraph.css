@@ -11,14 +11,14 @@
 }
 
 @media screen and (max-width: 1023px) {
-	.place__paragraph {
-		font-size: 16px;
+  .place__paragraph {
+    font-size: 16px;
     max-width: 460px;
-	}
+  }
 }
 
 @media screen and (max-width: 320px) {
-	.place__paragraph {
+  .place__paragraph {
     width: 90%;
-	}
+  }
 }
